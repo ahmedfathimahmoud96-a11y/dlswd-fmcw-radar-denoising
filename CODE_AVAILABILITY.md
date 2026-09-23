@@ -4,7 +4,6 @@ This repository provides the standalone public code package for the DLSWD FMCW r
 
 ## Public Repository URL
 
-Insert the GitHub URL here after publishing.
 
 ## Included Code
 
