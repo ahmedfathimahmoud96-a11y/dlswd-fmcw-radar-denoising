@@ -1,0 +1,16 @@
+function ieeeAxes(ax)
+%IEEEAXES  Apply the house style to one axes object.
+if nargin<1, ax = gca; end
+S = ieeeStyle();
+set(ax, 'FontName',S.fontName, 'FontSize',S.fontSize, ...
+        'LineWidth',S.axLineWidth, 'Box','on', 'Layer','top', ...
+        'TickDir','in', 'TickLength',[0.012 0.012], ...
+        'XMinorTick','on','YMinorTick','on', ...
+        'GridAlpha',S.gridAlpha,'MinorGridAlpha',S.gridAlpha/2, ...
+        'XColor',[0.15 0.15 0.15],'YColor',[0.15 0.15 0.15]);
+grid(ax,'on');
+ax.XLabel.FontSize = S.labelSize;  ax.XLabel.FontName = S.fontName;
+ax.YLabel.FontSize = S.labelSize;  ax.YLabel.FontName = S.fontName;
+ax.Title.FontSize  = S.titleSize;  ax.Title.FontName  = S.fontName;
+ax.Title.FontWeight= 'normal';     % IEEE captions carry the title, not the axes
+end

@@ -1,0 +1,4 @@
+Wavelet,Method,Rule,NoiseEstimate,Level,Key
+fk4,UniversalThreshold,Soft,LevelIndependent,6,fk4|UniversalThreshold|Soft|LevelIndependent|6
+db8,Bayes,Soft,LevelIndependent,5,db8|Bayes|Soft|LevelIndependent|5
+db4,SURE,Soft,LevelIndependent,7,db4|SURE|Soft|LevelIndependent|7

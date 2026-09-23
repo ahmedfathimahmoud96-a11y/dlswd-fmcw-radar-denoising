@@ -1,0 +1,17 @@
+*.mat
+*.fig
+*.zip
+*.log
+*.aux
+*.synctex.gz
+data/
+tmp/
+results/models/
+results/cache/
+**/large/
+TRS_Journal*.tex
+TRS_Journal*.pdf
+TRS_Journal*.bbl
+TRS_Journal*.blg
+*_manuscript*.tex
+*_manuscript*.pdf

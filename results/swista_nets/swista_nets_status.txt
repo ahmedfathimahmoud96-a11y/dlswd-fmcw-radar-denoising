@@ -1,0 +1,9 @@
+Method: SWISTA-Net adaptation for FMCW matrix denoising.
+Forward operator: identity, because paired noisy/clean matrices are available.
+Unrolled iterations: 7
+Wavelet levels: 3
+Trainable terms: subband steps, thresholds, FISTA momentum, and 3-layer post-processing CNN.
+Folds evaluated: [1 2 3 4 5]
+Epochs: 2
+MiniBatchSize: 16
+Metrics are scored on raw matrix scale after reversing per-sample normalization.

@@ -1,0 +1,76 @@
+Fold,Sweep,TauC,TauI,Step1N,MCSN,RetainedConfigurations
+1,tauC,0.01,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauC,0.02,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauC,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauC,0.1,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.1,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+1,tauI,0.05,0.15,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+1,tauI,0.05,0.2,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+1,tauI,0.05,0.25,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+1,tauI,0.05,0.3,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.35,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.4,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.45,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.55,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+1,tauI,0.05,0.6,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauC,0.01,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauC,0.02,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauC,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauC,0.1,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.1,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+2,tauI,0.05,0.15,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+2,tauI,0.05,0.2,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+2,tauI,0.05,0.25,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+2,tauI,0.05,0.3,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.35,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.4,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.45,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.55,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+2,tauI,0.05,0.6,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauC,0.01,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauC,0.02,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauC,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauC,0.1,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.1,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+3,tauI,0.05,0.15,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+3,tauI,0.05,0.2,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+3,tauI,0.05,0.25,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+3,tauI,0.05,0.3,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.35,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.4,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.45,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.55,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+3,tauI,0.05,0.6,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauC,0.01,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauC,0.02,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauC,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauC,0.1,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.1,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+4,tauI,0.05,0.15,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+4,tauI,0.05,0.2,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+4,tauI,0.05,0.25,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+4,tauI,0.05,0.3,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.35,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.4,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.45,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.55,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+4,tauI,0.05,0.6,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauC,0.01,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauC,0.02,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauC,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauC,0.1,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.1,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+5,tauI,0.05,0.15,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+5,tauI,0.05,0.2,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+5,tauI,0.05,0.25,3,1,fk4|UniversalThreshold|Soft|LevelIndependent|6
+5,tauI,0.05,0.3,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.35,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.4,3,2,fk4|UniversalThreshold|Soft|LevelIndependent|6; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.45,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.5,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.55,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5
+5,tauI,0.05,0.6,3,3,fk4|UniversalThreshold|Soft|LevelIndependent|6; db4|SURE|Soft|LevelIndependent|7; db8|Bayes|Soft|LevelIndependent|5

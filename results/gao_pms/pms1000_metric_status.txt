@@ -1,0 +1,5 @@
+Gao/RAMP-CNN-compatible radar settings used for representative RD export.
+sample_freq=4e+06 Hz
+sweep_slope=2.10017e+13 Hz/s
+n_chirps=255
+The exported figures use RAMP conversion semantics: column 2 is class, columns 3--4 are x/y position, and range is sqrt(x^2+y^2). The labels do not contain radial velocity, so true range-velocity error remains disabled.
